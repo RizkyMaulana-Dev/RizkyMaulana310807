@@ -41,9 +41,6 @@
 | 📋 **Attendance App** | Web-based attendance management system |
 | 🔢 **Digit.IO** | Personal project exploring interactive digit-based tools |
 | 🏠 **Rent A Stuff** | Rental marketplace platform |
-| 💼 **Give Me A Bucking Job** | Job-hunting themed personal project |
-
-> 📌 *Pin your best repos on GitHub so they show up right under your profile!*
 
 ---
 
