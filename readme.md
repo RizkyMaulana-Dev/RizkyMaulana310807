@@ -1,107 +1,172 @@
-<h1 align="center">Hi there, I'm Rizky Maulana 👋</h1>
+<div align="center">
 
-<h3 align="center">Fullstack Developer 🚀 | Game Developer 🎮 | Based in Indonesia 🇮🇩</h3>
+# Rizky Maulana
 
-<p align="center">
-  <a href="https://twitter.com/codexolve">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Game+Developer+%7C+Phaser.js+%C2%B7+Unity+%C2%B7+Three.js+%C2%B7+Godot;Building+cool+stuff+with+React+%26+TypeScript;Always+learning+something+new" alt="Typing SVG" />
-  </a>
-</p>
+**Fullstack Developer & Game Developer**  
+*Based in Indonesia 🇮🇩*
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rizkymaulana310807&label=Profile%20views&color=0e75b6&style=flat" alt="rizkymaulana310807" />
   <a href="https://twitter.com/codexolve" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/codexolve?logo=twitter&style=flat&color=0e75b6" alt="codexolve" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=0969DA&center=true&vCenter=true&width=620&lines=Fullstack+Developer+%E2%80%A2+React+%C2%B7+TypeScript+%C2%B7+Laravel;Game+Developer+%E2%80%A2+Godot+%C2%B7+Unity+%C2%B7+Three.js;Building+practical+web+apps+%26+interactive+tools;Exploring+Oracle+AI+Database" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rizkymaulana310807&theme=algolia&column=7&margin-w=10&margin-h=10" alt="rizkymaulana310807" />
+  <a href="https://github.com/rizkymaulana310807">
+    <img src="https://img.shields.io/badge/GitHub-%40rizkymaulana310807-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://twitter.com/codexolve" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter%2FX-%40codexolve-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter/X" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rizkymaulana310807&label=Profile%20Views&color=0969da&style=flat-square" alt="Profile Views" />
 </p>
+
+</div>
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-- 🎮 Started my journey in **game development** (internship at **Gamelab.ID**), building projects across multiple engines and frameworks
-- 💻 Now focused on **fullstack web development** — React, TypeScript, and Laravel are daily drivers
-- 🛠️ Currently exploring **Oracle AI Database** and expanding into database/AI-adjacent skills
-- 🌱 Always tinkering on side projects — from attendance systems to marketplace apps
-- ⚡ Fun fact: I enjoy building both pixel-perfect UIs *and* pixel-perfect game characters
+I am a **Fullstack Developer** and **Game Developer** based in Indonesia.
+
+* 🕹️ **Background**: I began my development journey in **game development**, completing an internship at **Gamelab.ID** where I gained hands-on experience across multiple game engines, custom gameplay mechanics, and interactive design.
+* 💻 **Primary Focus**: Today, I primarily focus on **fullstack web development**, building responsive, scalable applications with **React**, **TypeScript**, and **Laravel**.
+* 🛠️ **Engineering Mindset**: I enjoy building practical products that solve real problems, ranging from attendance management systems and marketplace platforms to interactive digit tools and combat mechanics.
+* 🔍 **Continuous Exploration**: I actively stay curious about emerging technologies—currently diving into **Oracle AI Database** and intelligent data architectures.
+
+---
+
+### 💡 What I Build
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Web Applications</h4>
+      <p>Clean, responsive client applications built with React, TypeScript, and modern component design, paired with maintainable RESTful backends.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🕹️ Game Development</h4>
+      <p>Interactive gameplay mechanics, custom combat and hitbox systems, and responsive game loops developed in Godot 4, Unity, and web frameworks.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend Architecture</h4>
+      <p>Structured business logic, API integrations, and secure application services powered by Laravel, Node.js, PHP, and Python.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗄️ Database & Analytics</h4>
+      <p>Relational schema design, data persistence, and query optimization using MySQL and Oracle, with dashboards powered by Chart.js.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🕹️ **Godot 2D Action Game** | Action game built in Godot 4 with GDScript, custom combat & hitbox system |
-| 📋 **Attendance App** | Web-based attendance management system |
-| 🔢 **Digit.IO** | Personal project exploring interactive digit-based tools |
-| 🏠 **Rent A Stuff** | Rental marketplace platform |
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| **Godot 2D Action Game** | 2D action game featuring a custom combat engine, responsive hitbox/hurtbox calculations, and fluid character mechanics. | `Godot 4` `GDScript` `Game Dev` | [Explore →](https://github.com/rizkymaulana310807) |
+| **Attendance App** | Fullstack web-based attendance management system built for tracking records, user reporting, and automated administrative workflows. | `React` `TypeScript` `Laravel` `MySQL` | [Explore →](https://github.com/rizkymaulana310807) |
+| **Digit.IO** | Experimental interactive utility exploring reactive number manipulation, digit-based algorithms, and browser interactivity. | `TypeScript` `React` `Tailwind CSS` | [Explore →](https://github.com/rizkymaulana310807) |
+| **Rent A Stuff** | Full-featured rental marketplace platform facilitating item discovery, listing management, and user rental transactions. | `Laravel` `PHP` `MySQL` `Tailwind CSS` | [Explore →](https://github.com/rizkymaulana310807) |
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Current Technology Stack
 
-**Web & Backend**
+<details open>
+<summary><b>Frontend</b></summary>
+<br />
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" alt="reactnative" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Game Development**
+</details>
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/>
-</p>
+<details open>
+<summary><b>Backend</b></summary>
+<br />
 
-**Database, Tools & Design**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-</p>
+</details>
+
+<details open>
+<summary><b>Game Development</b></summary>
+<br />
+
+![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Phaser.js](https://img.shields.io/badge/Phaser.js-8B008B?style=flat-square&logo=javascript&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Databases</b></summary>
+<br />
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Tools & Design</b></summary>
+<br />
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+
+</details>
 
 ---
 
-### 📊 GitHub Stats
+### 🔬 Currently Exploring
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizkymaulana310807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="rizkymaulana310807 stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkymaulana310807&layout=compact&theme=tokyonight&hide_border=true" alt="rizkymaulana310807 top langs" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkymaulana310807&theme=tokyonight&hide_border=true" alt="rizkymaulana310807 streak" />
-</p>
+> **Focus Area: Next-Generation Data & AI Integrations**
+> * **Oracle AI Database**: Studying AI vector search, in-database similarity pipelines, and enterprise AI workflows.
+> * **Intelligent Backends**: Incorporating AI-augmented search and data features into fullstack web architectures.
 
 ---
 
-### 📫 Connect with Me
+### 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://twitter.com/codexolve" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://github.com/rizkymaulana310807">
+    <img src="https://github-readme-stats.vercel.app/api?username=rizkymaulana310807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0f172a" height="150" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/rizkymaulana310807">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkymaulana310807&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" height="150" alt="Top Languages" />
   </a>
 </p>
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out! ⭐</i></p>
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/rizkymaulana310807" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/codexolve" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting! Feel free to explore my repositories, test out my projects, and reach out if you'd like to collaborate.</i>
+</p>
