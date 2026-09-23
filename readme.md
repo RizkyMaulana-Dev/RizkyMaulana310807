@@ -146,10 +146,10 @@ I am a **Fullstack Developer** and **Game Developer** based in Indonesia.
 
 <p align="center">
   <a href="https://github.com/rizkymaulana310807">
-    <img src="https://github-readme-stats.vercel.app/api?username=rizkymaulana310807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0f172a" height="150" alt="GitHub Stats" />
+    <img src="RizkyMaulana-Dev" height="150" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/rizkymaulana310807">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkymaulana310807&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" height="150" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyMaulana-Dev&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" height="150" alt="Top Languages" />
   </a>
 </p>
 
